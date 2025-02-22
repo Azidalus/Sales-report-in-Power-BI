@@ -6,7 +6,7 @@
 * [Results](https://github.com/Azidalus/Efficient-Automation-of-Immigration-Discourse-Analysis-in-News-Comments#Results)
 
 ## Project background
-Little Potion is a small retail store selling magical potions. It has a physical store and delivery service. For such a store, it is essential to track orders, sales, and inventory. This project aims to 
+Little Potion is a small retail store selling magical potions. It has a physical store and delivery service. For such a store, it is essential to track orders, sales, and inventory. This project aims to build a dashboard for tracking these things.
 
 ## Data structure
 
