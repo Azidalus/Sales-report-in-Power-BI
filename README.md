@@ -6,3 +6,9 @@
 * [Results](https://github.com/Azidalus/Efficient-Automation-of-Immigration-Discourse-Analysis-in-News-Comments#Results)
 
 ## Project background
+
+## Data structure
+
+## Methods
+
+## Results
